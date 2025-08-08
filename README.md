@@ -20,7 +20,7 @@ I believe in **maintainable, scalable, and well-documented code** — optimizing
 ### 🌍 Beyond Code  
 When I’m not coding, you’ll find me:  
 - Playing **football, tennis, table tennis, cricket**, or running.  
-- Experimenting with **coffee brewing methods** (ask me about beans!).  
+- Experimenting with **coffee brewing methods** (ask me about espresso/coffee machines!).  
 - Staying curious and constantly learning — whether in tech or beyond.  
 
 
